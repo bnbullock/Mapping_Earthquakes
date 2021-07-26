@@ -246,6 +246,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geoj
     }).addTo(tPlates);
   });
 
+  //Add the tectonic data to the map
   tPlates.addTo(map);
 
 });
