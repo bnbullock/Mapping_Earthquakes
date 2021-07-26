@@ -34,6 +34,7 @@ Working with our clients, we have been able to create a webpage with 2 different
 ### Legend
 - This chart shows the final legend panel and associated color codes.
 
+
 ![Website](/Earthquake_Challenge/static/images/legend.png)
 
 
@@ -44,9 +45,11 @@ Working with our clients, we have been able to create a webpage with 2 different
 
 - Dark map option with all Earthquakes and major earthquakes measuring more than 4.5 in magnitude in the past 7 days are displayed along with tectonic plates.
 
+
 ![Website](/Earthquake_Challenge/static/images/darkmap.png)
 
 - Satellite map option shown with all major earthquakes above magnitude 4.5 in the past 7 days.
+
 
 ![Website](/Earthquake_Challenge/static/images/majorEQ.png)
 ------------------------------------------------------------------------------------------------------------
