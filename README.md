@@ -30,14 +30,14 @@ Working with our clients, we have been able to create a webpage with 2 different
 
 ![Website](/Earthquake_Challenge/static/images/panel.png)
 
-### Legend
 
+### Legend
 - This chart shows the final legend panel and associated color codes.
 
 ![Website](/Earthquake_Challenge/static/images/legend.png)
 
-### Overlays
 
+### Overlays
 - Tectonic Plates - shown below, overlayed on the map with a weighted line of 1.
 
 ![Website](/Earthquake_Challenge/static/images/tectonicmap.png)
