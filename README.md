@@ -20,9 +20,10 @@ Working with our clients, we have been able to create a webpage with 2 different
 
 ## Results
 
-- The final map which meets all deliverables is shown below.
+- The final map which meets all deliverables is shown below. The displayed map is using the "streets" view and includes all overlays. The selection panel allows choices of 3 different selectable maps-streets, satellite and dar mode views were designed to meet the expectations of our clients. The legend was augmented to allow for all earthquakes and major earthquakes to be displayed cohesively. Major earthquakes uses 3 color panels while 5 color panels are used for all earthquakes.
 
 ![Website](/Earthquake_Challenge/static/images/map.png)
+
 
 ### Selection
 - The Panel showing below allows the user to select from the six different options or mix and match as may be required.
@@ -37,19 +38,19 @@ Working with our clients, we have been able to create a webpage with 2 different
 
 ### Overlays
 
-- Tectonic Plates
-  
+- Tectonic Plates - shown below, overlayed on the map with a weighted line of 1.
+
 ![Website](/Earthquake_Challenge/static/images/tectonicmap.png)
 
-- Dark map format with all Earthquakes in the past 7 days along with all major earthquakes and tectonic plates.
+- Dark map option with all Earthquakes and major earthquakes measuring more than 4.5 in magnitude in the past 7 days are displayed along with tectonic plates.
 
 ![Website](/Earthquake_Challenge/static/images/darkmap.png)
 
-- Satellite map with all major earthquakes above magnitude 4.5
-- 
+- Satellite map option shown with all major earthquakes above magnitude 4.5 in the past 7 days.
+
 ![Website](/Earthquake_Challenge/static/images/majorEQ.png)
 ------------------------------------------------------------------------------------------------------------
 
 ## Summary Analysis
 
-- The display results have met the deliverables as outlined above. Additional changes can be tweaked if our clients need specific color combinations or other features on any of the maps.
+- The display results have met the deliverables as outlined above. Tectonic plates were added as a selectable overlay, major earthquakes with 4.5 magnitude or higher has a separate selectable overlay and the added map with "dark" mode added as a third map option. All layers can be added or removed using the selectable panel located at the top right of the webpage. Additional changes can be tweaked if our clients need specific color combinations or additional features on any of the maps.
