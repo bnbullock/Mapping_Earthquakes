@@ -30,7 +30,8 @@ Working with our clients, we have been able to create a webpage with 2 different
 ![Website](/Earthquake_Challenge/static/images/panel.png)
 
 ### Legend
-- This chart shows the different bacterial cultures per sample on an individualized basis.
+
+- This chart shows the final legend panel and associated color codes.
 
 ![Website](/Earthquake_Challenge/static/images/legend.png)
 
@@ -39,6 +40,8 @@ Working with our clients, we have been able to create a webpage with 2 different
 ![Website](/Earthquake_Challenge/static/images/tectonicmap.png)
 
 ![Website](/Earthquake_Challenge/static/images/darkmap.png)
+
+![Website](/Earthquake_Challenge/static/images/majorEQ.png)
 ------------------------------------------------------------------------------------------------------------
 
 ## Summary Analysis
