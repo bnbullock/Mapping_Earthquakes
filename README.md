@@ -12,7 +12,7 @@ Working with our clients, we have been able to create a webpage with 2 different
 ------------------------------------------------------------------------------------------------------------
 
 ## Resources
-- Software: Visual Studio Code 1.56.2, JavaScript shell inside VS Code
+- Software: Visual Studio Code 1.56.2, JavaScript & Markdown shells within VS Code
 - Browser : Google Chrome v91.0.4472.124 
 - Libraries: Bootstrap v4.0, d3 v4.11.0, Leaflet v1.7.1, Mapbox v8.0
 - Data: OpenStreetMap, https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php, https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json
@@ -37,13 +37,19 @@ Working with our clients, we have been able to create a webpage with 2 different
 
 ### Overlays
 
+- Tectonic Plates
+  
 ![Website](/Earthquake_Challenge/static/images/tectonicmap.png)
+
+- Dark map format with all Earthquakes in the past 7 days along with all major earthquakes and tectonic plates.
 
 ![Website](/Earthquake_Challenge/static/images/darkmap.png)
 
+- Satellite map with all major earthquakes above magnitude 4.5
+- 
 ![Website](/Earthquake_Challenge/static/images/majorEQ.png)
 ------------------------------------------------------------------------------------------------------------
 
 ## Summary Analysis
 
-- The display results have met the deliverables as outlined above. Additional changes can be tweaked if our clients need specifi color combinations or other features on any of the maps.
+- The display results have met the deliverables as outlined above. Additional changes can be tweaked if our clients need specific color combinations or other features on any of the maps.
