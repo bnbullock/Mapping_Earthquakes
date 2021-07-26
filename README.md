@@ -22,23 +22,23 @@ Working with our clients, we have been able to create a webpage with 2 different
 
 - The final map which meets all deliverables is shown below.
 
-![Website](/static/images/map.png)
+![Website](/Earthquake_Challenge/static/images/map.png)
 
 ### Selection
 - The Panel showing below allows the user to select from the six different options or mix and match as may be required.
 
-![Website](static/images/Panel.png)
+![Website](/Earthquake_Challenge/static/images/panel.png)
 
 ### Legend
 - This chart shows the different bacterial cultures per sample on an individualized basis.
 
-![Website](static/images/Legend.png)
+![Website](/Earthquake_Challenge/static/images/legend.png)
 
 ### Overlays
 
-![Website](static/images/TectonicDate.png)
+![Website](/Earthquake_Challenge/static/images/tectonicmap.png)
 
-![Website](static/images/DarkMap.png)
+![Website](/Earthquake_Challenge/static/images/darkmap.png)
 ------------------------------------------------------------------------------------------------------------
 
 ## Summary Analysis
